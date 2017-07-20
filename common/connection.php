@@ -10,7 +10,7 @@ define('SURL', "http://".$_SERVER['SERVER_NAME']."/firebase/");
 define('MYSURL',"http://".$_SERVER['SERVER_NAME']."/firebase/");
 define('DOC_ROOT',$_SERVER['DOCUMENT_ROOT']."/");
 define('TITLE', "Quiz App");
-define('GOOGLE_MAP_API_KEY', 'ABQIAAAAKMmORsriCx_c01f2bawenRTTw2kHax5LZQW3zTBkUSnPPaIreBTdk6zLD5VQ44aeSgyUCkBPtsQS0g');
+define('GOOGLE_MAP_API_KEY', '');
 
 	
 function ReDirect($URL){
